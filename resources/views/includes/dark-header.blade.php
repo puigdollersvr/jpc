@@ -50,10 +50,10 @@
             <a href="#" class="menu_main_responsive_button icon-menu-1"></a>
             <nav class="menu_main_nav_area">
                 <ul id="menu_main" class="menu_main_nav">
-                    <li class="menu-item @if($_SERVER['REQUEST_URI'] === "/") current-menu-parent current-menu-parent @endif"><a href="{{URL::to('/')}}">Inicio</a></li>
-                    <li class="menu-item  @if($_SERVER['REQUEST_URI'] === "/courses" || $_SERVER['REQUEST_URI'] === "/exercices" || $_SERVER['REQUEST_URI'] === "/exercice" || $_SERVER['REQUEST_URI'] === "/exercice-1" || $_SERVER['REQUEST_URI'] === "/exercice-2") current-menu-ancestor current-menu-parent @endif"><a href="{{URL::to('/courses')}}">Bloques formativos</a></li>
-                    <li class="menu-item  @if($_SERVER['REQUEST_URI'] === "/video") current-menu-ancestor current-menu-parent @endif"><a href="{{URL::to('/video')}}">Multimedia</a></li>
-                    <li class="menu-item  @if($_SERVER['REQUEST_URI'] === "/events") current-menu-ancestor current-menu-parent @endif"><a href="{{URL::to('/events')}}">Calendario</a></li>
+                    <li class="menu-item @if($_SERVER['REQUEST_URI'] === "/") current-menu-parent current-menu-parent @endif"><a href="{{URL::to('/')}}">Inici</a></li>
+                    <li class="menu-item  @if($_SERVER['REQUEST_URI'] === "/courses" || $_SERVER['REQUEST_URI'] === "/exercices" || $_SERVER['REQUEST_URI'] === "/exercice" || $_SERVER['REQUEST_URI'] === "/exercice-1" || $_SERVER['REQUEST_URI'] === "/exercice-2") current-menu-ancestor current-menu-parent @endif"><a href="{{URL::to('/courses')}}">Blocs formatius</a></li>
+                    <li class="menu-item  @if($_SERVER['REQUEST_URI'] === "/video") current-menu-ancestor current-menu-parent @endif"><a href="{{URL::to('/video')}}">Multimèdia</a></li>
+                    <li class="menu-item  @if($_SERVER['REQUEST_URI'] === "/events") current-menu-ancestor current-menu-parent @endif"><a href="{{URL::to('/events')}}">Calendari</a></li>
                     <li class="menu-item  @if($_SERVER['REQUEST_URI'] === "/blog" || $_SERVER['REQUEST_URI'] === "/blog-article") current-menu-ancestor current-menu-parent @endif" ><a href="{{URL::to('/blog')}}">Blog</a></li>
                 </ul>
             </nav>
