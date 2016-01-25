@@ -17,13 +17,13 @@
     <div class="page_top_wrap page_top_title page_top_breadcrumbs">
         <div class="content_wrap">
             <div class="breadcrumbs">
-                <a class="breadcrumbs_item home" href="{{URL::to('/')}}">Inicio</a>
+                <a class="breadcrumbs_item home" href="{{URL::to('/')}}">Inici</a>
                 <span class="breadcrumbs_delimiter"></span>
-                <a class="breadcrumbs_item all" href="{{URL::to('/courses')}}">Unidades formativas</a>
+                <a class="breadcrumbs_item all" href="{{URL::to('/courses')}}">Blocs formatius</a>
                 <span class="breadcrumbs_delimiter"></span>
-                <span class="breadcrumbs_item current">Bloque X.X</span>
+                <span class="breadcrumbs_item current">Bloc X.X</span>
             </div>
-            <h1 class="page_title">Bloque X.X</h1>
+            <h1 class="page_title">Bloc X.X</h1>
         </div>
     </div>
     <!-- /Page title -->
@@ -49,7 +49,7 @@
                                             <div class="post_info_wrap info">
                                                 <div class="info-back">
                                                     <h4 class="post_title">
-                                                        <a href="{{URL::to('/exercice')}}">Ejercicio 1</a>
+                                                        <a href="{{URL::to('/exercice')}}">Activitat 1</a>
                                                     </h4>
                                                     <div class="post_descr">
                                                         <p>
@@ -73,7 +73,7 @@
                                             <div class="post_info_wrap info">
                                                 <div class="info-back">
                                                     <h4 class="post_title">
-                                                        <a href="{{URL::to('/exercice-1')}}">Ejercicio 2</a>
+                                                        <a href="{{URL::to('/exercice-1')}}">Activitat 2</a>
                                                     </h4>
                                                     <div class="post_descr">
                                                         <p>
@@ -97,7 +97,7 @@
                                             <div class="post_info_wrap info">
                                                 <div class="info-back">
                                                     <h4 class="post_title">
-                                                        <a href="{{URL::to('/exercice-2')}}">Ejercicio 3</a>
+                                                        <a href="{{URL::to('/exercice-2')}}">Activitat 3</a>
                                                     </h4>
                                                     <div class="post_descr">
                                                         <p>
@@ -121,7 +121,7 @@
                                             <div class="post_info_wrap info">
                                                 <div class="info-back">
                                                     <h4 class="post_title">
-                                                        <a href="{{URL::to('/exercice')}}">Ejercicio 4</a>
+                                                        <a href="{{URL::to('/exercice')}}">Activitat 4</a>
                                                     </h4>
                                                     <div class="post_descr">
                                                         <p>
@@ -145,7 +145,7 @@
                                             <div class="post_info_wrap info">
                                                 <div class="info-back">
                                                     <h4 class="post_title">
-                                                        <a href="{{URL::to('/exercice')}}">Ejercicio 5</a>
+                                                        <a href="{{URL::to('/exercice')}}">Activitat 5</a>
                                                     </h4>
                                                     <div class="post_descr">
                                                         <p>
@@ -168,7 +168,7 @@
                                             <div class="post_info_wrap info">
                                                 <div class="info-back">
                                                     <h4 class="post_title">
-                                                        <a href="{{URL::to('/exercice')}}">Ejercicio 6</a>
+                                                        <a href="{{URL::to('/exercice')}}">Activitat 6</a>
                                                     </h4>
                                                     <div class="post_descr">
                                                         <p>
