@@ -37,16 +37,16 @@
                         <article class="post_item post_item_courses odd">
                             <div class="post_content isotope_item_content ih-item colored square effect_dir left_to_right">
                                 <div class="post_featured img">
-                                    <a href="paid-course.html">
+                                    <a href="{{URL::to('/exercices')}}">
                                         <img alt="Principles of Written English, Part 2"
                                              src="images/masonry_15-400x400.jpg"></a>
                                     <h4 class="post_title">
-                                        <a href="paid-course.html">Bloc 0.0: Lorem ipsum sit amet</a>
+                                        <a href="{{URL::to('/exercices')}}">Bloc 0.0: Lorem ipsum sit amet</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultat</a>
+                                            <a href="{{URL::to('/exercices')}}">Resultat</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -73,12 +73,12 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="paid-course.html">Bloc 0.0: Lorem ipsum sit amet</a>
+                                            <a href="{{URL::to('/exercices')}}">Bloc 0.0: Lorem ipsum sit amet</a>
                                         </h4>
 
                                         <div class="post_descr">
                                             <p>
-                                                <a href="paid-course.html">Nam id leo massa. Cras at condimentum nisi,
+                                                <a href="{{URL::to('/exercices')}}">Nam id leo massa. Cras at condimentum nisi,
                                                     vulputate ultrices turpis.</a>
                                             </p>
 
@@ -105,12 +105,12 @@
                                              src="images/masonry_06-400x400.jpg">
                                     </a>
                                     <h4 class="post_title">
-                                        <a href="paid-course.html">Bloc 0.1: Lorem ipsum dolor</a>
+                                        <a href="{{URL::to('/exercices')}}">Bloc 0.1: Lorem ipsum dolor</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultat</a>
+                                            <a href="{{URL::to('/exercices')}}">Resultat</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -137,12 +137,12 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="paid-course.html">Bloc 0.1: Lorem ipsum dolor</a>
+                                            <a href="{{URL::to('/exercices')}}">Bloc 0.1: Lorem ipsum dolor</a>
                                         </h4>
 
                                         <div class="post_descr">
                                             <p>
-                                                <a href="paid-course.html">Quisque a nulla eget ante vestibulum lacinia
+                                                <a href="{{URL::to('/exercices')}}">Quisque a nulla eget ante vestibulum lacinia
                                                     eu quis massa.</a>
                                             </p>
 
@@ -164,16 +164,16 @@
                         <article class="post_item post_item_courses odd">
                             <div class="post_content isotope_item_content ih-item colored square effect_dir left_to_right">
                                 <div class="post_featured img">
-                                    <a href="free-course.html">
+                                    <a href="{{URL::to('/exercices')}}">
                                         <img alt="Evaluating Social Programs" src="images/masonry_04-400x400.jpg">
                                     </a>
                                     <h4 class="post_title">
-                                        <a href="free-course.html">Bloc 1.0: Lorem ipsum</a>
+                                        <a href="{{URL::to('/exercices')}}">Bloc 1.0: Lorem ipsum</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultat</a>
+                                            <a href="{{URL::to('/exercices')}}">Resultat</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -200,12 +200,12 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="free-course.html">Bloc 1.0: Lorem ipsum</a>
+                                            <a href="{{URL::to('/exercices')}}">Bloc 1.0: Lorem ipsum</a>
                                         </h4>
 
                                         <div class="post_descr">
                                             <p>
-                                                <a href="free-course.html">Nunc finibus vestibulum dui a fringilla.
+                                                <a href="{{URL::to('/exercices')}}">Nunc finibus vestibulum dui a fringilla.
                                                     Maecenas maximus in massa sit amet maximus.</a>
                                             </p>
 
@@ -227,17 +227,17 @@
                         <article class="post_item post_item_courses even">
                             <div class="post_content isotope_item_content ih-item colored square effect_dir left_to_right">
                                 <div class="post_featured img">
-                                    <a href="paid-course.html">
+                                    <a href="{{URL::to('/exercices')}}">
                                         <img alt="Principles of Written English, Part 1"
                                              src="images/masonry_05-400x400.jpg">
                                     </a>
                                     <h4 class="post_title">
-                                        <a href="paid-course.html">Bloc 2.0: Lorem ipsum lorem ipsum</a>
+                                        <a href="{{URL::to('/exercices')}}">Bloc 2.0: Lorem ipsum lorem ipsum</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultats</a>
+                                            <a href="{{URL::to('/exercices')}}">Resultats</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -264,12 +264,12 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="paid-course.html">Bloc 2.0: Lorem ipsum lorem ipsum</a>
+                                            <a href="{{URL::to('/exercices')}}">Bloc 2.0: Lorem ipsum lorem ipsum</a>
                                         </h4>
 
                                         <div class="post_descr">
                                             <p>
-                                                <a href="paid-course.html">Duis aute irure dolor in reprehenderit in
+                                                <a href="{{URL::to('/exercices')}}">Duis aute irure dolor in reprehenderit in
                                                     voluptate velit esse cillum dolore eu fugiat nulla pariatur.</a>
                                             </p>
 
@@ -291,16 +291,16 @@
                         <article class="post_item post_item_courses odd">
                             <div class="post_content isotope_item_content ih-item colored square effect_dir left_to_right">
                                 <div class="post_featured img">
-                                    <a href="paid-course.html">
+                                    <a href="{{URL::to('/exercices')}}">
                                         <img alt="Introduction to Biomedical Imaging"
                                              src="images/masonry_03-400x400.jpg"></a>
                                     <h4 class="post_title">
-                                        <a href="paid-course.html">Bloc 3.0: Sit amet dolor</a>
+                                        <a href="{{URL::to('/exercices')}}">Bloc 3.0: Sit amet dolor</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultat</a>
+                                            <a href="{{URL::to('/exercices')}}">Resultat</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -327,12 +327,12 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="paid-course.html">Bloc 3.0: Sit amet dolor</a>
+                                            <a href="{{URL::to('/exercices')}}">Bloc 3.0: Sit amet dolor</a>
                                         </h4>
 
                                         <div class="post_descr">
                                             <p>
-                                                <a href="paid-course.html">Lorem ipsum dolor sit amet, consectetur
+                                                <a href="{{URL::to('/exercices')}}">Lorem ipsum dolor sit amet, consectetur
                                                     adipisicing elit</a>
                                             </p>
 
@@ -354,17 +354,17 @@
                         <article class="post_item post_item_courses even last">
                             <div class="post_content isotope_item_content ih-item colored square effect_dir left_to_right">
                                 <div class="post_featured img">
-                                    <a href="paid-course.html">
+                                    <a href="{{URL::to('/exercices')}}">
                                         <img alt="Introduction to Computer  Science"
                                              src="images/masonry_02-400x400.jpg">
                                     </a>
                                     <h4 class="post_title">
-                                        <a href="paid-course.html">Bloc 4.0: Dolor ipsum lorem</a>
+                                        <a href="{{URL::to('/exercices')}}">Bloc 4.0: Dolor ipsum lorem</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultat</a>
+                                            <a href="{{URL::to('/exercices')}}">Resultat</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -391,12 +391,12 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="paid-course.html">Bloc 4.0: Dolor ipsum lorem</a>
+                                            <a href="{{URL::to('/exercices')}}">Bloc 4.0: Dolor ipsum lorem</a>
                                         </h4>
 
                                         <div class="post_descr">
                                             <p>
-                                                <a href="paid-course.html">Sed interdum felis diam, vitae rutrum urna
+                                                <a href="{{URL::to('/exercices')}}">Sed interdum felis diam, vitae rutrum urna
                                                     laoreet vehicula.</a>
                                             </p>
 
