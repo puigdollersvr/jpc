@@ -22,7 +22,7 @@
                 <span class="breadcrumbs_delimiter"></span>
                 <span class="breadcrumbs_item current">Blocs formatius</span>
             </div>-->
-            <h1 class="page_title">Bloques formativos</h1>
+            <h1 class="page_title">Blocs formatius</h1>
         </div>
     </div>
     <!-- /Page title -->
@@ -41,12 +41,12 @@
                                         <img alt="Principles of Written English, Part 2"
                                              src="images/masonry_15-400x400.jpg"></a>
                                     <h4 class="post_title">
-                                        <a href="paid-course.html">Bloque 0.0: Lorem ipsum sit amet</a>
+                                        <a href="paid-course.html">Bloc 0.0: Lorem ipsum sit amet</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultado</a>
+                                            <a href="tag-page.html">Resultat</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -73,7 +73,7 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="paid-course.html">Bloque 0.0: Lorem ipsum sit amet</a>
+                                            <a href="paid-course.html">Bloc 0.0: Lorem ipsum sit amet</a>
                                         </h4>
 
                                         <div class="post_descr">
@@ -85,7 +85,7 @@
                                             <div class="post_buttons">
                                                 <div class="post_button">
                                                     <a href="{{URL::to('/exercices')}}"
-                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDER</a>
+                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDEIX</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -105,12 +105,12 @@
                                              src="images/masonry_06-400x400.jpg">
                                     </a>
                                     <h4 class="post_title">
-                                        <a href="paid-course.html">Bloque 0.1: Lorem ipsum dolor</a>
+                                        <a href="paid-course.html">Bloc 0.1: Lorem ipsum dolor</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultado</a>
+                                            <a href="tag-page.html">Resultat</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -137,7 +137,7 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="paid-course.html">Bloque 0.1: Lorem ipsum dolor</a>
+                                            <a href="paid-course.html">Bloc 0.1: Lorem ipsum dolor</a>
                                         </h4>
 
                                         <div class="post_descr">
@@ -149,7 +149,7 @@
                                             <div class="post_buttons">
                                                 <div class="post_button">
                                                     <a href="{{URL::to('/exercices')}}"
-                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDER</a>
+                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDEIX</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -168,12 +168,12 @@
                                         <img alt="Evaluating Social Programs" src="images/masonry_04-400x400.jpg">
                                     </a>
                                     <h4 class="post_title">
-                                        <a href="free-course.html">Bloque 1.0: Lorem ipsum</a>
+                                        <a href="free-course.html">Bloc 1.0: Lorem ipsum</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultado</a>
+                                            <a href="tag-page.html">Resultat</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -200,7 +200,7 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="free-course.html">Bloque 1.0: Lorem ipsum</a>
+                                            <a href="free-course.html">Bloc 1.0: Lorem ipsum</a>
                                         </h4>
 
                                         <div class="post_descr">
@@ -212,7 +212,7 @@
                                             <div class="post_buttons">
                                                 <div class="post_button">
                                                     <a href="{{URL::to('/exercices')}}"
-                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDER</a>
+                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDEIX</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -232,12 +232,12 @@
                                              src="images/masonry_05-400x400.jpg">
                                     </a>
                                     <h4 class="post_title">
-                                        <a href="paid-course.html">Bloque 2.0: Lorem ipsum lorem ipsum</a>
+                                        <a href="paid-course.html">Bloc 2.0: Lorem ipsum lorem ipsum</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultados</a>
+                                            <a href="tag-page.html">Resultats</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -264,7 +264,7 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="paid-course.html">Bloque 2.0: Lorem ipsum lorem ipsum</a>
+                                            <a href="paid-course.html">Bloc 2.0: Lorem ipsum lorem ipsum</a>
                                         </h4>
 
                                         <div class="post_descr">
@@ -276,7 +276,7 @@
                                             <div class="post_buttons">
                                                 <div class="post_button">
                                                     <a href="{{URL::to('/exercices')}}"
-                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDER</a>
+                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDEIX</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -295,12 +295,12 @@
                                         <img alt="Introduction to Biomedical Imaging"
                                              src="images/masonry_03-400x400.jpg"></a>
                                     <h4 class="post_title">
-                                        <a href="paid-course.html">Bloque 3.0: Sit amet dolor</a>
+                                        <a href="paid-course.html">Bloc 3.0: Sit amet dolor</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultado</a>
+                                            <a href="tag-page.html">Resultat</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -327,7 +327,7 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="paid-course.html">Bloque 3.0: Sit amet dolor</a>
+                                            <a href="paid-course.html">Bloc 3.0: Sit amet dolor</a>
                                         </h4>
 
                                         <div class="post_descr">
@@ -339,7 +339,7 @@
                                             <div class="post_buttons">
                                                 <div class="post_button">
                                                     <a href="{{URL::to('/exercices')}}"
-                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDER</a>
+                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDEIX</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -359,12 +359,12 @@
                                              src="images/masonry_02-400x400.jpg">
                                     </a>
                                     <h4 class="post_title">
-                                        <a href="paid-course.html">Bloque 4.0: Dolor ipsum lorem</a>
+                                        <a href="paid-course.html">Bloc 4.0: Dolor ipsum lorem</a>
                                     </h4>
 
                                     <div class="post_descr">
                                         <div class="post_category">
-                                            <a href="tag-page.html">Resultado</a>
+                                            <a href="tag-page.html">Resultat</a>
                                         </div>
                                         <div class="post_rating reviews_summary blog_reviews">
                                             <div class="criteria_summary criteria_row">
@@ -391,7 +391,7 @@
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
                                         <h4 class="post_title">
-                                            <a href="paid-course.html">Bloque 4.0: Dolor ipsum lorem</a>
+                                            <a href="paid-course.html">Bloc 4.0: Dolor ipsum lorem</a>
                                         </h4>
 
                                         <div class="post_descr">
@@ -403,7 +403,7 @@
                                             <div class="post_buttons">
                                                 <div class="post_button">
                                                     <a href="{{URL::to('/exercices')}}"
-                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDER</a>
+                                                       class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">ACCEDEIX</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -417,8 +417,8 @@
                 <div id="viewmore" class="pagination_wrap pagination_viewmore">
                     <a href="#" id="viewmore_link" class="theme_button viewmore_button">
                         <span class="icon-spin3 animate-spin viewmore_loading"></span>
-                        <span class="viewmore_text_1">Cargar más</span>
-                        <span class="viewmore_text_2">Cargando ...</span>
+                        <span class="viewmore_text_1">Veure més</span>
+                        <span class="viewmore_text_2">Espera ...</span>
                     </a>
                     <span class="viewmore_loader"></span>
                 </div>
