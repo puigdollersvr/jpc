@@ -16,7 +16,7 @@
     <!-- Page title -->
     <div class="page_top_wrap page_top_title page_top_breadcrumbs">
         <div class="content_wrap">
-            <h1 class="page_title">Calendario</h1>
+            <h1 class="page_title">Calendari</h1>
         </div>
     </div>
     <!-- /Page title -->
@@ -36,12 +36,12 @@
                                     <form id="tribe-bar-form" class="tribe-clearfix" name="tribe-bar-form" method="post"
                                           action="#">
                                         <div id="tribe-bar-collapse-toggle">
-                                            Buscar eventos<span class="tribe-bar-toggle-arrow"></span>
+                                            Cerca esdeveniments<span class="tribe-bar-toggle-arrow"></span>
                                         </div>
                                         <div id="tribe-bar-views">
                                             <div class="tribe-bar-views-inner tribe-clearfix">
                                                 <h3 class="tribe-events-visuallyhidden">Event Views Navigation</h3>
-                                                <label>Ver como</label>
+                                                <label>Veure com</label>
                                                 <ul class="tribe-bar-views-list">
                                                     <li class="tribe-bar-views-option tribe-bar-views-option-month tribe-bar-active"
                                                         data-tribe-bar-order="1" data-view="month">
@@ -49,11 +49,11 @@
                                                     </li>
                                                     <li class="tribe-bar-views-option tribe-bar-views-option-list"
                                                         data-tribe-bar-order="0" data-view="list">
-                                                        <a href="#"><span class="tribe-icon-list">Lista</span></a>
+                                                        <a href="#"><span class="tribe-icon-list">LLista</span></a>
                                                     </li>
                                                     <li class="tribe-bar-views-option tribe-bar-views-option-day"
                                                         data-tribe-bar-order="2" data-view="day">
-                                                        <a href="#"><span class="tribe-icon-day">Día</span></a>
+                                                        <a href="#"><span class="tribe-icon-day">Dia</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -61,8 +61,8 @@
                                         <div class="tribe-bar-filters">
                                             <div class="tribe-bar-filters-inner tribe-clearfix">
                                                 <div class="tribe-bar-date-filter">
-                                                    <label class="label-tribe-bar-date" for="tribe-bar-date">Eventos
-                                                        en</label>
+                                                    <label class="label-tribe-bar-date" for="tribe-bar-date">Esdeveniments
+                                                        a dia de</label>
                                                     <input type="text" class="pos_rel" name="tribe-bar-date"
                                                            id="tribe-bar-date" value="" placeholder="Fecha">
                                                     <input type="hidden" name="tribe-bar-date-day"
@@ -70,20 +70,20 @@
                                                 </div>
                                                 <div class="tribe-bar-search-filter">
                                                     <label class="label-tribe-bar-search"
-                                                           for="tribe-bar-search">Buscar</label>
+                                                           for="tribe-bar-search">Cerca</label>
                                                     <input type="text" name="tribe-bar-search" id="tribe-bar-search"
-                                                           value="" placeholder="Buscar">
+                                                           value="" placeholder="Cerca">
                                                 </div>
                                                 <div class="tribe-bar-submit">
                                                     <input class="tribe-events-button tribe-no-param" type="submit"
-                                                           name="submit-bar" value="Buscar eventos"/>
+                                                           name="submit-bar" value="Cerca esdeveniments"/>
                                                 </div>
                                             </div>
                                         </div>
                                     </form>
                                 </div>
                                 <div id="tribe-events-content" class="tribe-events-month">
-                                    <h2 class="tribe-events-page-title">Enero 2016</h2>
+                                    <h2 class="tribe-events-page-title">Gener 2016</h2>
 
                                     <div id="tribe-events-header"
                                          data-title="Events for September 2015 | Education Center">
@@ -99,14 +99,14 @@
                                     <table class="tribe-events-calendar">
                                         <thead>
                                         <tr>
-                                            <th id="tribe-events-monday" title="Monday" data-day-abbr="Mon">Lun</th>
-                                            <th id="tribe-events-tuesday" title="Tuesday" data-day-abbr="Tue">Mar</th>
-                                            <th id="tribe-events-wednesday" title="Wednesday" data-day-abbr="Wed">Mie
+                                            <th id="tribe-events-monday" title="Monday" data-day-abbr="Mon">Dl.</th>
+                                            <th id="tribe-events-tuesday" title="Tuesday" data-day-abbr="Tue">Dt.</th>
+                                            <th id="tribe-events-wednesday" title="Wednesday" data-day-abbr="Wed">Dm.
                                             </th>
-                                            <th id="tribe-events-thursday" title="Thursday" data-day-abbr="Thu">Jue</th>
-                                            <th id="tribe-events-friday" title="Friday" data-day-abbr="Fri">Vie</th>
-                                            <th id="tribe-events-saturday" title="Saturday" data-day-abbr="Sat">Sáb</th>
-                                            <th id="tribe-events-sunday" title="Sunday" data-day-abbr="Sun">Dom</th>
+                                            <th id="tribe-events-thursday" title="Thursday" data-day-abbr="Thu">Dj.</th>
+                                            <th id="tribe-events-friday" title="Friday" data-day-abbr="Fri">Dv.</th>
+                                            <th id="tribe-events-saturday" title="Saturday" data-day-abbr="Sat">Ds.</th>
+                                            <th id="tribe-events-sunday" title="Sunday" data-day-abbr="Sun">Dg.</th>
                                         </tr>
                                         </thead>
                                         <tbody class="vcalendar">
@@ -207,22 +207,22 @@
                                                 <div id="tribe-events-event-1"
                                                      class="tribe_events type-tribe_events tribe-events-last">
                                                     <h3 class="tribe-events-month-event-title entry-title summary">
-                                                        <a href="event-example.html" class="url">Evento de ejemplo</a>
+                                                        <a href="event-example.html" class="url">Esdeveniment d'exemple</a>
                                                     </h3>
 
                                                     <div class="tribe-events-tooltip" id="tribe-events-tooltip-1">
-                                                        <h4 class="entry-title summary">Evento de ejemplo</h4>
+                                                        <h4 class="entry-title summary">Esdeveniment d'exemple</h4>
 
                                                         <div class="tribe-events-event-body">
                                                             <div class="duration">
-                                                                <abbr class="tribe-events-abbr updated published dtstart">Setiembre
+                                                                <abbr class="tribe-events-abbr updated published dtstart">Setembre
                                                                     17</abbr>
                                                             </div>
                                                             <div class="tribe-events-event-thumb">
                                                                 <img alt="Event Example"
                                                                      src="images/masonry_17-75x75.jpg">
                                                             </div>
-                                                            <p class="entry-summary description">Nuevo evento de ejemplo</p>
+                                                            <p class="entry-summary description">Nou esdeveniment d'exemple</p>
                                                             <span class="tribe-events-arrow"></span>
                                                         </div>
                                                     </div>
@@ -324,13 +324,13 @@
                                         <h3 class="tribe-events-visuallyhidden">Calendar Month Navigation</h3>
                                         <ul class="tribe-events-sub-nav">
                                             <li class="tribe-events-nav-previous">
-                                                <a href="#" rel="prev"><span>&laquo;</span> Diciembre </a></li>
+                                                <a href="#" rel="prev"><span>&laquo;</span> Desembre </a></li>
                                             <li class="tribe-events-nav-next"></li>
                                         </ul>
                                     </div>
                                     <a class="tribe-events-ical tribe-events-button"
                                        title="Use this to share calendar data with Google Calendar, Apple iCal and other compatible apps"
-                                       href="#">+ Exportar eventos Mensulales</a>
+                                       href="#">+ Exportar esdeveniments mensuals</a>
                                 </div>
                             </div>
                         </div>

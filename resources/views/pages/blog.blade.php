@@ -29,16 +29,16 @@
                 <article class="post_item post_item_excerpt odd post type-post">
                     <h3 class="post_title">
                         <a href="post-without-image.html">
-                            <span class="post_icon icon-book-2"></span>Publicación 1
+                            <span class="post_icon icon-book-2"></span>Publicació 1
                         </a>
                     </h3>
 
                     <div class="post_content clearfix">
                         <div class="post_info">
-                                    <span class="post_info_item post_info_posted">Publicado
-										<a href="#" class="post_info_date">Diciembre 28, 2014</a>
+                                    <span class="post_info_item post_info_posted">Publicat
+										<a href="#" class="post_info_date">Desembre 28, 2014</a>
 									</span>
-                                    <span class="post_info_item post_info_posted_by">por
+                                    <span class="post_info_item post_info_posted_by">per
 										<a href="#" class="post_info_author">John Doe</a>
 									</span>
                                     <span class="post_info_item post_info_counters">
@@ -59,7 +59,7 @@
                                 vehicula erat. Sed ultricies tempor nunc, nec malesuada tortor vehicula ac. Curabitur
                                 imperdiet massa ac ex pretium, et mollis metus aliquet. Phasellus...</p>
                             <a href="{{URL::to("/blog-article")}}"
-                               class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">LEER MÁS</a>
+                               class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">LLEGIR MÉS</a>
                         </div>
                     </div>
                 </article>
@@ -71,10 +71,10 @@
 
                 <!-- Search widget -->
                 <aside class="widget widget_search">
-                    <h5 class="widget_title">Buscar</h5>
+                    <h5 class="widget_title">Cerca</h5>
 
                     <form method="get" class="search_form" action="#">
-                        <input type="text" class="search_field" placeholder="Buscar &hellip;" value="" name="s"
+                        <input type="text" class="search_field" placeholder="Cerca &hellip;" value="" name="s"
                                title="Search for:"/>
                         <button type="submit" class="search_button icon-search-2"></button>
                     </form>
@@ -83,9 +83,9 @@
 
                 <!-- Categories widget -->
                 <aside class="widget">
-                    <h5 class="widget_title">Categorias</h5>
+                    <h5 class="widget_title">Categories</h5>
                     <ul>
-                        <li><a href="#">Todas las publicaciones</a> (22)
+                        <li><a href="#">Totes las publicacions</a> (22)
                             <ul class="children">
                                 <li><a href="#">Categoria 1</a> (12)</li>
                                 <li><a href="#">Categoria 2</a> (10)</li>
@@ -96,7 +96,7 @@
                 <!-- /Categories widget -->
                 <!-- Recent posts widget -->
                 <aside class="widget">
-                    <h5 class="widget_title">Publicaciones recientes</h5>
+                    <h5 class="widget_title">Publicacions recents</h5>
                     <article class="post_item first">
                         <div class="post_thumb">
                             <img alt="Medical Chemistry: The Molecular Basis" src="images/masonry_01-75x75.jpg"></div>
@@ -107,7 +107,7 @@
 
                             <div class="post_info">
 										<span class="post_info_item post_info_posted">
-											<a href="#" class="post_info_date">Enero 14, 2015</a>
+											<a href="#" class="post_info_date">Gener 14, 2015</a>
 										</span>
 										<span class="post_info_item post_info_posted_by">de
 											<a href="#" class="post_info_author">John Doe</a>
@@ -129,7 +129,7 @@
 
                             <div class="post_info">
 										<span class="post_info_item post_info_posted">
-											<a href="#" class="post_info_date">Enero 14, 2015</a>
+											<a href="#" class="post_info_date">Gener 14, 2015</a>
 										</span>
 										<span class="post_info_item post_info_posted_by">de
 											<a href="#" class="post_info_author">John Doe</a>
@@ -144,11 +144,11 @@
                 <!-- /Recent posts widget -->
                 <!-- Archive widget -->
                 <aside class="widget widget_archive">
-                    <h5 class="widget_title">Histórico</h5>
+                    <h5 class="widget_title">Històric</h5>
                     <ul>
-                        <li><a href="#">Febrero 2015</a>&nbsp;(8)</li>
-                        <li><a href="#">Enero 2015</a>&nbsp;(12)</li>
-                        <li><a href="#">Diciembre 2014</a>&nbsp;(10)</li>
+                        <li><a href="#">Febrer 2015</a>&nbsp;(8)</li>
+                        <li><a href="#">Gener 2015</a>&nbsp;(12)</li>
+                        <li><a href="#">Desembre 2014</a>&nbsp;(10)</li>
                     </ul>
                 </aside>
                 <!-- /Archive widget -->

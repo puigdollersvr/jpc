@@ -17,15 +17,15 @@
     <div class="page_top_wrap page_top_title page_top_breadcrumbs">
         <div class="content_wrap">
             <div class="breadcrumbs">
-                <a class="breadcrumbs_item home" href="{{URL::to('/')}}">Inicio</a>
+                <a class="breadcrumbs_item home" href="{{URL::to('/')}}">Inici</a>
                 <span class="breadcrumbs_delimiter"></span>
                 <a class="breadcrumbs_item all" href="{{URL::to('/blog')}}">Blog</a>
                 <span class="breadcrumbs_delimiter"></span>
                 <a class="breadcrumbs_item cat_post" href="{{URL::to('/blog')}}">Categoria</a>
                 <span class="breadcrumbs_delimiter"></span>
-                <span class="breadcrumbs_item current">Título de la publicación</span>
+                <span class="breadcrumbs_item current">Títol de la publicació</span>
             </div>
-            <h1 class="page_title">Título de la publicación</h1>
+            <h1 class="page_title">Títol de la publicació</h1>
         </div>
     </div>
     <!-- /Page title -->
@@ -35,13 +35,13 @@
             <div class="content">
                 <article class="post_item post_item_single post_featured_right post">
                     <div class="post_info">
-                                <span class="post_info_item post_info_posted">Publicado
-									<a href="#" class="post_info_date date updated" content="2014-12-28">Diciembre 28, 2014</a>
+                                <span class="post_info_item post_info_posted">Publicat
+									<a href="#" class="post_info_date date updated" content="2014-12-28">Desembre 28, 2014</a>
 								</span>
-                                <span class="post_info_item post_info_posted_by">por
+                                <span class="post_info_item post_info_posted_by">per
 									<a href="#" class="post_info_author">John Doe</a>
 								</span>
-                                <span class="post_info_item post_info_tags">en
+                                <span class="post_info_item post_info_tags">a
 									<a class="category_link" href="post-formats.html">Categoria 1</a>,
 									<a class="category_link" href="post-formats-with-sidebar.html">Categoria 2</a>
 								</span>
@@ -73,7 +73,7 @@
                 <div class="content">
                     <section class="comments_wrap">
                         <div id="comments" class="comments_list_wrap">
-                            <h2 class="section_title comments_list_title">Comentarios</h2>
+                            <h2 class="section_title comments_list_title">Comentaris</h2>
                             <ul class="comments_list">
                                 <li id="comment-3" class="comment even thread-even depth-1 comment_item">
                                     <div class="comment_author_avatar">
@@ -83,8 +83,8 @@
                                         <div class="comment_info">
                                             <span class="comment_author">Sarah Jefferson</span>
                                                 <span class="comment_date">
-													<span class="comment_date_label">Publicado</span>
-													<span class="comment_date_value">Enero 13, 2015</span>
+													<span class="comment_date_label">Publicat</span>
+													<span class="comment_date_value">Gener 13, 2015</span>
 												</span>
                                             <span class="comment_time">7:11 am</span>
                                         </div>
@@ -94,7 +94,7 @@
                                             </div>
                                         </div>
                                         <div class="comment_reply">
-                                            <a class="comment-reply-link" href="#">Responder</a>
+                                            <a class="comment-reply-link" href="#">Respondre</a>
                                         </div>
                                     </div>
                                     <ul class="children">
@@ -105,7 +105,7 @@
                                             <div class="comment_content">
                                                 <div class="comment_info">
                                                     <span class="comment_author">Douglas Adams</span>
-															<span class="comment_date"><span class="comment_date_label">Publicado</span>
+															<span class="comment_date"><span class="comment_date_label">Publicat</span>
 															<span class="comment_date_value">Enero 13, 2015</span>
 														</span>
                                                     <span class="comment_time">8:28 am</span>
@@ -116,7 +116,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="comment_reply">
-                                                    <a class="comment-reply-link" href="#">Responder</a>
+                                                    <a class="comment-reply-link" href="#">Respondre</a>
                                                 </div>
                                             </div>
                                             <ul class="children">
@@ -128,8 +128,8 @@
                                                         <div class="comment_info">
                                                             <span class="comment_author">Sebastian Jones</span>
                                                                 <span class="comment_date">
-																	<span class="comment_date_label">Publicado</span>
-																	<span class="comment_date_value">Enero 13, 2015</span>
+																	<span class="comment_date_label">Publicat</span>
+																	<span class="comment_date_value">Gener 13, 2015</span>
 																</span>
                                                             <span class="comment_time">8:29 am</span>
                                                         </div>
@@ -139,7 +139,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="comment_reply">
-                                                            <a class="comment-reply-link" href="#">Responder</a>
+                                                            <a class="comment-reply-link" href="#">Respondre</a>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -155,8 +155,8 @@
                                         <div class="comment_info">
                                             <span class="comment_author">Betsy Borns</span>
                                                 <span class="comment_date">
-													<span class="comment_date_label">Publicado</span>
-													<span class="comment_date_value">Enero 13, 2015</span>
+													<span class="comment_date_label">Publicat</span>
+													<span class="comment_date_value">Gener 13, 2015</span>
 												</span>
                                             <span class="comment_time">8:30 am</span>
                                         </div>
@@ -166,7 +166,7 @@
                                             </div>
                                         </div>
                                         <div class="comment_reply">
-                                            <a class="comment-reply-link" href="#">Responder</a>
+                                            <a class="comment-reply-link" href="#">Respondre</a>
                                         </div>
                                     </div>
                                 </li>
@@ -183,27 +183,27 @@
             <div class="content">
                 <section class="comments_wrap">
                     <div class="comments_form_wrap">
-                        <h2 class="section_title comments_form_title">Añadir comentario</h2>
+                        <h2 class="section_title comments_form_title">Afegir comentari</h2>
                         <div class="comments_form">
                             <div id="respond" class="comment-respond">
                                 <form action="#" method="post" id="commentform" class="comment-form">
-                                    <p class="comments_notes">Tu dirección de correo no se publicará. Los campos obligatorios están marcados con el símbolo *</p>
+                                    <p class="comments_notes">La teva direcció de correu electrònic no es publicarà. Els camps obligatoris estàn senyalats amb el símbol "*"</p>
                                     <div class="columns_wrap">
                                         <div class="comments_field comments_author column-1_2">
-                                            <label for="author" class="required">Nombre</label>
-                                            <input id="author" name="author" type="text" placeholder="Nombre *" value="" size="30" aria-required="true" />
+                                            <label for="author" class="required">Nom</label>
+                                            <input id="author" name="author" type="text" placeholder="Nom *" value="" size="30" aria-required="true" />
                                         </div>
                                         <div class="comments_field comments_email column-1_2">
-                                            <label for="email" class="required">Dirección de correo electrónico</label>
-                                            <input id="email" name="email" type="text" placeholder="Dirección de correo electrónico *" value="" size="30" aria-required="true" />
+                                            <label for="email" class="required">Direcció de correu electrònic</label>
+                                            <input id="email" name="email" type="text" placeholder="Direcció de correu electrònic *" value="" size="30" aria-required="true" />
                                         </div>
                                     </div>
                                     <div class="comments_field comments_message">
-                                        <label for="comment" class="required">Tu mensaje</label>
-                                        <textarea id="comment" name="comment" placeholder="Comentario" aria-required="true"></textarea>
+                                        <label for="comment" class="required">El teu missatge</label>
+                                        <textarea id="comment" name="comment" placeholder="Comentari" aria-required="true"></textarea>
                                     </div>
                                     <p class="form-submit">
-                                        <input name="submit" type="submit" id="send_comment" class="submit" value="Publica el comentario" />
+                                        <input name="submit" type="submit" id="send_comment" class="submit" value="Publica el comentari" />
                                     </p>
                                 </form>
                             </div>

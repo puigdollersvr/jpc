@@ -16,7 +16,7 @@
 <!-- Page title -->
 <div class="page_top_wrap page_top_title page_top_breadcrumbs sc_pt_st1">
     <div class="content_wrap">
-        <h1 class="page_title">Multimedia</h1>
+        <h1 class="page_title">Multimèdia</h1>
     </div>
 </div>
 <!-- /Page title -->
