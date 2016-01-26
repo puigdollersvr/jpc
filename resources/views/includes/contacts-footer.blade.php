@@ -7,8 +7,8 @@
         </div>
         <div class="contacts_address">
             <address class="address_right">
-                Phone: 1.800.123.4567<br>
-                Fax: 1.800.123.4566
+                Tlf: +34 123123123<br>
+                Fax: +34 123123123
             </address>
             <address class="address_left">
                 San Francisco, CA 94102, US<br>
