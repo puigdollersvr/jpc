@@ -17,15 +17,15 @@
     <div class="page_top_wrap page_top_title page_top_breadcrumbs sc_pt_st1">
         <div class="content_wrap">
             <div class="breadcrumbs">
-                <a class="breadcrumbs_item home" href="{{URL::to('/')}}">Inicio</a>
+                <a class="breadcrumbs_item home" href="{{URL::to('/')}}">Inici</a>
                 <span class="breadcrumbs_delimiter"></span>
-                <a class="breadcrumbs_item all" href="{{URL::to('/courses')}}">Unidades formativas</a>
+                <a class="breadcrumbs_item all" href="{{URL::to('/courses')}}">Blocs formatius</a>
                 <span class="breadcrumbs_delimiter"></span>
-                <a class="breadcrumbs_item all" href="{{URL::to('/exercices')}}">Bloque X.X</a>
+                <a class="breadcrumbs_item all" href="{{URL::to('/exercices')}}">Bloc X.X</a>
                 <span class="breadcrumbs_delimiter"></span>
-                <span class="breadcrumbs_item current">Ejercicio X</span>
+                <span class="breadcrumbs_item current">Activitat X</span>
             </div>
-            <h1 class="page_title">Título del ejercicio</h1>
+            <h1 class="page_title">Títol de l'activitat</h1>
         </div>
     </div>
     <!-- /Page title -->
@@ -41,7 +41,7 @@
                             <div class="sc_section_content">
                                 <div class="sc_content content_wrap margin_top_2_5em_imp margin_bottom_2_5em_imp">
                                     <h2 class="sc_title sc_title_regular sc_align_center margin_top_0 margin_bottom_085em text_center">
-                                        Completa las frases</h2>
+                                        Completa les següents oracions</h2>
 
                                     <form>
                                         <p>Lorem <input type="text" class="complete-sentence"/> dolor sit amet, consectetur adipiscing elit. Suspendisse ante nisl, consequat eget dui quis, ullamcorper faucibus lectus.</p>
@@ -56,7 +56,7 @@
 
                                             <div class="post_button">
                                                 <a href="{{URL::to('/exercices')}}"
-                                                   class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">VALIDAR</a>
+                                                   class="sc_button sc_button_square sc_button_style_filled sc_button_bg_link sc_button_size_small">VALIDA</a>
                                             </div>
                                         </div>
                                     </form>

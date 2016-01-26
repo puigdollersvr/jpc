@@ -25,7 +25,7 @@ $(window).load(function () {
                         setTimeout(function () {
                             $("#reanswer").text(" ... ");
                                 setTimeout(function () {
-                                    $("#reanswer").text("Gracias Marc, hasta otra.");
+                                    $("#reanswer").text("Etiam vel ipsum lobortis, tristique arcu ac, sagittis metus. ");
                                     $("#no-icon").removeClass("desactivated-button");
                             }, 250);
                         }, 250);

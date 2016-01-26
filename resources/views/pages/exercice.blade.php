@@ -17,15 +17,15 @@
 <div class="page_top_wrap page_top_title page_top_breadcrumbs sc_pt_st1">
     <div class="content_wrap">
         <div class="breadcrumbs">
-            <a class="breadcrumbs_item home" href="{{URL::to('/')}}">Inicio</a>
+            <a class="breadcrumbs_item home" href="{{URL::to('/')}}">Inici</a>
             <span class="breadcrumbs_delimiter"></span>
-            <a class="breadcrumbs_item all" href="{{URL::to('/courses')}}">Unidades formativas</a>
+            <a class="breadcrumbs_item all" href="{{URL::to('/courses')}}">Blocs formatius</a>
             <span class="breadcrumbs_delimiter"></span>
-            <a class="breadcrumbs_item all" href="{{URL::to('/exercices')}}">Bloque X.X</a>
+            <a class="breadcrumbs_item all" href="{{URL::to('/exercices')}}">Bloc X.X</a>
             <span class="breadcrumbs_delimiter"></span>
-            <span class="breadcrumbs_item current">Ejercicio X</span>
+            <span class="breadcrumbs_item current">Activitat X</span>
         </div>
-        <h1 class="page_title">Título del ejercicio</h1>
+        <h1 class="page_title">Títol de l'activitat</h1>
     </div>
 </div>
 <!-- /Page title -->
@@ -39,15 +39,15 @@
                         <div class="sc_section_overlay">
                             <div class="sc_section_content">
                                 <div class="sc_content content_wrap margin_top_2_5em_imp margin_bottom_2_5em_imp">
-                                    <h2 class="sc_title sc_title_regular sc_align_center margin_top_0 margin_bottom_085em text_center">Resuelve las dudas de tu compañera Maria</h2>
+                                    <h2 class="sc_title sc_title_regular sc_align_center margin_top_0 margin_bottom_085em text_center">Resol els dubtes de la teva companya María</h2>
                                     <div class="row">
                                         <div class="col-xs-6 col-md-4">
                                             <img style="position: absolute; right: 0px;" src="{{asset("/images/maria.png")}}"/>
                                         </div>
                                         <div class="col-xs-6 col-md-4">
                                             <div class="chat">
-                                                <div class="bubble me girl visible" >Hola Marc! ¿Crees que a la hora de buscar trabajo deberia informar a la empresa que tengo una discapacidad?</div>
-                                                <div id="answer" class="bubble you boy" >Hola Maria, Sí, deberias decirselo.</div>
+                                                <div class="bubble me girl visible" >Mauris rhoncus sed enim ut faucibus. Sed sodales at metus malesuada consectetur?</div>
+                                                <div id="answer" class="bubble you boy" >Nullam ultrices diam vel velit ornare euismod.</div>
                                                 <div id="reanswer" class="bubble me girl">&nbsp;</div>
                                             </div>
                                         </div>
