@@ -9,7 +9,7 @@
     @stop
 
     @section('header')
-    @include('includes.dark-header')
+    @include('includes.header')
     @stop
 
     @section('content')
