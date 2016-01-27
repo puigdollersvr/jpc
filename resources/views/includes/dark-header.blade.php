@@ -8,7 +8,7 @@
                         <a href="#" class="bookmarks_show icon-star-1" title="Show bookmarks"></a>
                         <ul class="bookmarks_list">
                             <li><a href="#" class="bookmarks_add icon-star-empty"
-                                   title="Add the current page into bookmarks">Add bookmark</a></li>
+                                   title="Add the current page into bookmarks">Afegeix a les adreçes d'interès</a></li>
                         </ul>
                     </li>
                     <li class="menu_user_controls">
@@ -21,17 +21,17 @@
 										</span>
                             <span class="user_name">John Doe</span></a>
                         <ul>
-                            <li><a href="#" class="icon icon-doc-inv">New post</a></li>
-                            <li><a href="#" class="icon icon-cog-1">Settings</a></li>
+                            <li><a href="#" class="icon icon-doc-inv">Nou post</a></li>
+                            <li><a href="#" class="icon icon-cog-1">Configuració</a></li>
                         </ul>
                     </li>
                     <li class="menu_user_logout">
-                        <a href="#" class="icon icon-logout">Cerrar sessión</a>
+                        <a href="#" class="icon icon-logout">Tannca la sessió</a>
                     </li>
                 </ul>
             </div>
-            <div class="menu_user_area menu_user_left menu_user_contact_area">Contacte con nosotros en 0 800 123-4567 o <a
-                        href="#">support@themerex.net</a></div>
+            <div class="menu_user_area menu_user_left menu_user_contact_area">Contacte amb nosaltres al +34 800 123 456 o <a
+                        href="#">support@insolaonline.com</a></div>
         </div>
     </div>
     <!-- /User menu -->
