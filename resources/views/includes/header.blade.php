@@ -40,7 +40,7 @@
         <div class="content_wrap clearfix">
             <!-- Logo -->
             <div class="logo">
-                <a href="index.html">
+                <a href="{{URL::to('/')}}">
                     <img src="images/logo_dark.png" class="logo_main" alt="">
                     <img src="images/logo_dark.png" class="logo_fixed" alt="">
                 </a>
